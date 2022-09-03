@@ -1,0 +1,58 @@
+body{
+    background-color: #F3F1FF;
+}
+.navbar img{
+    width: 40px;
+}
+.player img{
+    width: 56px;
+}
+main{
+    max-width: 870px;
+}
+.tpo-player{
+    background-color: #ffff;
+    
+}
+.blog img{
+    width: 150px;
+}
+.p-4{
+    color: #9F9F9F;
+}
+.coler-iffet{
+    color:#562EFF ;
+}
+.mx-auto{
+    box-shadow: 5px 5px 5px gray;
+}
+.g-4 p{
+    color: #ED6B4F;
+
+}
+.text-muted img{
+    width: 30px;
+}
+.card-100{
+    width: 30px;
+}
+.kfjvh img{
+    width: 100px;
+}
+.last-button{
+    border: none;
+    background-color:#ffff ;
+    border-radius: 5px;
+    color: #ED6B4F;
+}
+footer p{
+    color: gray;
+    text-align: center;
+}
+.row{
+    border: none;
+}
+.p-2{
+    border: none;
+
+}
